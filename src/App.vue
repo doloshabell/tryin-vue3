@@ -1,7 +1,7 @@
 <script setup>
-import Home from './components/Home.vue'
+import RandomQuoteGenerator from './components/RandomQuoteGenerator.vue'
 </script>
 
 <template>
-  <Home />
+  <RandomQuoteGenerator />
 </template>
