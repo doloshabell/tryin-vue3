@@ -1,7 +1,7 @@
 <script setup>
-import TodoList from './components/TodoList.vue'
+import Home from './components/Home.vue'
 </script>
 
 <template>
-  <TodoList />
+  <Home />
 </template>
