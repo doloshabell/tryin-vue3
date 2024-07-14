@@ -1,7 +1,7 @@
 <script setup>
-import Home from './components/Home.vue'
+import PasswordGenerator from './components/PasswordGenerator.vue'
 </script>
 
 <template>
-  <Home />
+  <PasswordGenerator />
 </template>
