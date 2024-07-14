@@ -1,7 +1,7 @@
 <script setup>
-import Home from './components/Home.vue'
+import ProgressSteps from './components/ProgressSteps.vue'
 </script>
 
 <template>
-  <Home />
+  <ProgressSteps />
 </template>
