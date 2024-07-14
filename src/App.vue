@@ -1,7 +1,7 @@
 <script setup>
-import Home from './components/Home.vue'
+import FormValidation from './components/FormValidation.vue'
 </script>
 
 <template>
-  <Home />
+  <FormValidation />
 </template>
