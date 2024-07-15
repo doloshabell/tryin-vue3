@@ -1,7 +1,7 @@
 <script setup>
-import Home from './components/Home.vue'
+import WikiClone from './components/WikiClone.vue'
 </script>
 
 <template>
-  <Home />
+  <WikiClone />
 </template>
