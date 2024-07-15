@@ -1,7 +1,7 @@
 <script setup>
-import Home from './components/Home.vue'
+import GithubUsersSearch from './components/GithubUsersSearch.vue'
 </script>
 
 <template>
-  <Home />
+  <GithubUsersSearch />
 </template>
